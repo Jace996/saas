@@ -5,10 +5,10 @@ package runtime
 import (
 	"time"
 
-	"github.com/go-saas/saas/examples/ent/shared/ent/post"
-	"github.com/go-saas/saas/examples/ent/shared/ent/schema"
-	"github.com/go-saas/saas/examples/ent/shared/ent/tenant"
-	"github.com/go-saas/saas/examples/ent/shared/ent/tenantconn"
+	"github.com/jace996/saas/examples/ent/shared/ent/post"
+	"github.com/jace996/saas/examples/ent/shared/ent/schema"
+	"github.com/jace996/saas/examples/ent/shared/ent/tenant"
+	"github.com/jace996/saas/examples/ent/shared/ent/tenantconn"
 )
 
 // The init function reads all schema descriptors with runtime code

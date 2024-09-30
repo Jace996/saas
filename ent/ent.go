@@ -5,8 +5,8 @@ import (
 	entgo "entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/schema/field"
-	"github.com/go-saas/saas"
-	"github.com/go-saas/saas/data"
+	"github.com/jace996/saas"
+	"github.com/jace996/saas/data"
 	"reflect"
 )
 

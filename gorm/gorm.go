@@ -2,9 +2,9 @@ package gorm
 
 import (
 	"context"
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 
-	"github.com/go-saas/saas/data"
+	"github.com/jace996/saas/data"
 	"gorm.io/gorm"
 )
 

@@ -4,9 +4,9 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"github.com/go-kratos/kratos/v2/errors"
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 
-	shttp "github.com/go-saas/saas/http"
+	shttp "github.com/jace996/saas/http"
 	"net/http"
 
 	pkgHTTP "github.com/apache/apisix-go-plugin-runner/pkg/http"
@@ -17,7 +17,7 @@ import (
 func init() {
 	err := plugin.RegisterPlugin(&Saas{})
 	if err != nil {
-		log.Fatalf("failed to register plugin go-saas: %s", err)
+		log.Fatalf("failed to register plugin jace996: %s", err)
 	}
 }
 
@@ -57,7 +57,7 @@ func Init(t saas.TenantStore, nextHeader, nextInfoHeader string, format FormatEr
 }
 
 func (p *Saas) Name() string {
-	return "go-saas"
+	return "jace996"
 }
 
 func (p *Saas) ParseConf(in []byte) (interface{}, error) {

@@ -12,7 +12,7 @@ import (
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
-	"github.com/go-saas/saas/examples/ent/tenant/ent/post"
+	"github.com/jace996/saas/examples/ent/tenant/ent/post"
 )
 
 // ent aliases to avoid import conflicts in user's code.

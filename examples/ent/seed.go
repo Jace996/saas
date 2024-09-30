@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/go-saas/saas/data"
-	"github.com/go-saas/saas/examples/ent/shared/ent"
-	"github.com/go-saas/saas/seed"
+	"github.com/jace996/saas/data"
+	"github.com/jace996/saas/examples/ent/shared/ent"
+	"github.com/jace996/saas/seed"
 )
 
 type Seed struct {

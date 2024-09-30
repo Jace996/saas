@@ -3,14 +3,14 @@ package main
 import (
 	"context"
 	"github.com/gin-gonic/gin"
-	"github.com/go-saas/saas"
-	"github.com/go-saas/saas/data"
-	"github.com/go-saas/saas/examples/ent/shared/ent"
-	_ "github.com/go-saas/saas/examples/ent/shared/ent/runtime"
-	ent2 "github.com/go-saas/saas/examples/ent/tenant/ent"
-	_ "github.com/go-saas/saas/examples/ent/tenant/ent/runtime"
-	sgin "github.com/go-saas/saas/gin"
-	"github.com/go-saas/saas/seed"
+	"github.com/jace996/saas"
+	"github.com/jace996/saas/data"
+	"github.com/jace996/saas/examples/ent/shared/ent"
+	_ "github.com/jace996/saas/examples/ent/shared/ent/runtime"
+	ent2 "github.com/jace996/saas/examples/ent/tenant/ent"
+	_ "github.com/jace996/saas/examples/ent/tenant/ent/runtime"
+	sgin "github.com/jace996/saas/gin"
+	"github.com/jace996/saas/seed"
 	_ "github.com/mattn/go-sqlite3"
 )
 

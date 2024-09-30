@@ -1,13 +1,13 @@
-module github.com/go-saas/saas/examples/ent
+module github.com/jace996/saas/examples/ent
 
 go 1.20
 
-replace github.com/go-saas/saas => ../../
+replace github.com/jace996/saas => ../../
 
 require (
 	entgo.io/ent v0.12.4
 	github.com/gin-gonic/gin v1.8.1
-	github.com/go-saas/saas v0.0.0-00010101000000-000000000000
+	github.com/jace996/saas v0.0.0-00010101000000-000000000000
 	github.com/mattn/go-sqlite3 v1.14.16
 )
 

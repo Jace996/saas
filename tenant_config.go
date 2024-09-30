@@ -1,6 +1,6 @@
 package saas
 
-import "github.com/go-saas/saas/data"
+import "github.com/jace996/saas/data"
 
 type TenantConfig struct {
 	ID      string           `json:"id"`

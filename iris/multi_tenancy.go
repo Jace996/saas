@@ -2,9 +2,9 @@ package iris
 
 import (
 	"errors"
-	"github.com/go-saas/saas"
-	"github.com/go-saas/saas/data"
-	"github.com/go-saas/saas/http"
+	"github.com/jace996/saas"
+	"github.com/jace996/saas/data"
+	"github.com/jace996/saas/http"
 	"github.com/kataras/iris/v12"
 )
 

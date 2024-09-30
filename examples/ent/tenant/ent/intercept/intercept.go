@@ -7,9 +7,9 @@ import (
 	"fmt"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/go-saas/saas/examples/ent/tenant/ent"
-	"github.com/go-saas/saas/examples/ent/tenant/ent/post"
-	"github.com/go-saas/saas/examples/ent/tenant/ent/predicate"
+	"github.com/jace996/saas/examples/ent/tenant/ent"
+	"github.com/jace996/saas/examples/ent/tenant/ent/post"
+	"github.com/jace996/saas/examples/ent/tenant/ent/predicate"
 )
 
 // The Query interface represents an operation that queries a graph.

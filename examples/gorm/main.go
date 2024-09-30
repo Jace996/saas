@@ -7,16 +7,16 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/go-saas/saas"
-	sgin "github.com/go-saas/saas/gin"
+	"github.com/jace996/saas"
+	sgin "github.com/jace996/saas/gin"
 	mysql2 "github.com/go-sql-driver/mysql"
 	"github.com/google/uuid"
 
 	"net/http"
 
-	"github.com/go-saas/saas/data"
-	sgorm "github.com/go-saas/saas/gorm"
-	"github.com/go-saas/saas/seed"
+	"github.com/jace996/saas/data"
+	sgorm "github.com/jace996/saas/gorm"
+	"github.com/jace996/saas/seed"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlite"

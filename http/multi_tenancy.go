@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/go-saas/saas"
-	"github.com/go-saas/saas/data"
+	"github.com/jace996/saas"
+	"github.com/jace996/saas/data"
 	"net/http"
 )
 

@@ -9,15 +9,15 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/go-saas/saas/examples/ent/shared/ent/migrate"
+	"github.com/jace996/saas/examples/ent/shared/ent/migrate"
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
-	"github.com/go-saas/saas/examples/ent/shared/ent/post"
-	"github.com/go-saas/saas/examples/ent/shared/ent/tenant"
-	"github.com/go-saas/saas/examples/ent/shared/ent/tenantconn"
+	"github.com/jace996/saas/examples/ent/shared/ent/post"
+	"github.com/jace996/saas/examples/ent/shared/ent/tenant"
+	"github.com/jace996/saas/examples/ent/shared/ent/tenantconn"
 )
 
 // Client is the client that holds all ent builders.

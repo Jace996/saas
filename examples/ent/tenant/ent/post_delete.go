@@ -8,8 +8,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/go-saas/saas/examples/ent/tenant/ent/post"
-	"github.com/go-saas/saas/examples/ent/tenant/ent/predicate"
+	"github.com/jace996/saas/examples/ent/tenant/ent/post"
+	"github.com/jace996/saas/examples/ent/tenant/ent/predicate"
 )
 
 // PostDelete is the builder for deleting a Post entity.

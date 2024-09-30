@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/go-saas/saas/examples/ent/tenant/ent"
+	"github.com/jace996/saas/examples/ent/tenant/ent"
 )
 
 // The PostFunc type is an adapter to allow the use of ordinary

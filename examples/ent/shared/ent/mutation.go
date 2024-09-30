@@ -11,10 +11,10 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/go-saas/saas/examples/ent/shared/ent/post"
-	"github.com/go-saas/saas/examples/ent/shared/ent/predicate"
-	"github.com/go-saas/saas/examples/ent/shared/ent/tenant"
-	"github.com/go-saas/saas/examples/ent/shared/ent/tenantconn"
+	"github.com/jace996/saas/examples/ent/shared/ent/post"
+	"github.com/jace996/saas/examples/ent/shared/ent/predicate"
+	"github.com/jace996/saas/examples/ent/shared/ent/tenant"
+	"github.com/jace996/saas/examples/ent/shared/ent/tenantconn"
 )
 
 const (

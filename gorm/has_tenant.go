@@ -7,9 +7,9 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"encoding/json"
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 
-	"github.com/go-saas/saas/data"
+	"github.com/jace996/saas/data"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"

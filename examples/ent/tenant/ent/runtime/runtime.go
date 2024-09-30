@@ -3,8 +3,8 @@
 package runtime
 
 import (
-	"github.com/go-saas/saas/examples/ent/tenant/ent/post"
-	"github.com/go-saas/saas/examples/ent/tenant/ent/schema"
+	"github.com/jace996/saas/examples/ent/tenant/ent/post"
+	"github.com/jace996/saas/examples/ent/tenant/ent/schema"
 )
 
 // The init function reads all schema descriptors with runtime code

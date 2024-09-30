@@ -1,10 +1,10 @@
-module github.com/go-saas/saas/examples/gorm
+module github.com/jace996/saas/examples/gorm
 
 go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/go-saas/saas v0.0.10
+	github.com/jace996/saas v0.0.10
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/google/uuid v1.3.1
 	gorm.io/driver/mysql v1.3.3
@@ -51,4 +51,4 @@ require (
 	gorm.io/driver/postgres v1.5.7
 )
 
-replace github.com/go-saas/saas => ../../
+replace github.com/jace996/saas => ../../

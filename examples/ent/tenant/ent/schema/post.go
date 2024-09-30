@@ -3,7 +3,7 @@ package schema
 import (
 	"entgo.io/ent"
 	"entgo.io/ent/schema/field"
-	sent "github.com/go-saas/saas/ent"
+	sent "github.com/jace996/saas/ent"
 )
 
 // Post holds the schema definition for the Post entity.

@@ -1,7 +1,7 @@
 package iris
 
 import (
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/httptest"
 	"github.com/stretchr/testify/assert"

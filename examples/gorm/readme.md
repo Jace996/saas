@@ -1,22 +1,22 @@
 # Example project
 
-combination of `go-saas`,`gin`,`gorm(sqlite/mysql)`
+combination of `jace996`,`gin`,`gorm(sqlite/mysql)`
 
 ### sqlite3
 ```shell
-go run github.com/go-saas/saas/examples/gorm
+go run github.com/jace996/saas/examples/gorm
 ```
 ---
 ### mysql
 ```shell
 docker-compose up -d
-go run github.com/go-saas/saas/examples/gorm --driver mysql
+go run github.com/jace996/saas/examples/gorm --driver mysql
 ```
 ---
 ### postgres
 ```shell
 docker-compose up -d
-go run github.com/go-saas/saas/examples/gorm --driver pgx
+go run github.com/jace996/saas/examples/gorm --driver pgx
 ```
 
 Host side ( use shared database):

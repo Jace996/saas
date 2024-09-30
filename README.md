@@ -1,12 +1,12 @@
-# go-saas
+# jace996
 
 [English](./README.md) | [中文文档](./README_zh_Hans.md)
 
 headless go framework for saas(multi-tenancy).   
-`go-saas` targets to provide saas solution for go
+`jace996` targets to provide saas solution for go
 this project suits for simple (web) project, which is also called monolithic.  
 
-if you are finding complete solution which is microservice compatible, please refer to [go-saas-kit](https://github.com/go-saas/kit)
+if you are finding complete solution which is microservice compatible, please refer to [jace996-kit](https://github.com/jace996/kit)
 
 # Overview
 
@@ -49,7 +49,7 @@ if you are finding complete solution which is microservice compatible, please re
 ## Install
 
 ```
-go get github.com/go-saas/saas
+go get github.com/jace996/saas
 ```
 
 ## Design
@@ -64,12 +64,12 @@ graph TD
 
     
 # Sample Project
-* [example-gorm](https://github.com/go-saas/saas/tree/main/examples/gorm) combination of `go-saas`,`gin`,`gorm(sqlite/mysql)`
-* [example-ent](https://github.com/go-saas/saas/tree/main/examples/ent) combination of `go-saas`,`gin`,`ent(sqlite)`
-* [go-saas-kit](https://github.com/go-saas/kit) Microservice architecture starter kit for golang sass project
+* [example-gorm](https://github.com/jace996/saas/tree/main/examples/gorm) combination of `jace996`,`gin`,`gorm(sqlite/mysql)`
+* [example-ent](https://github.com/jace996/saas/tree/main/examples/ent) combination of `jace996`,`gin`,`ent(sqlite)`
+* [jace996-kit](https://github.com/jace996/kit) Microservice architecture starter kit for golang sass project
 
 # Documentation
- Refer to [wiki](https://github.com/go-saas/saas/wiki)
+ Refer to [wiki](https://github.com/jace996/saas/wiki)
 
 
 # References

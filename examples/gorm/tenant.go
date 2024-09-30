@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"errors"
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 
-	sgorm "github.com/go-saas/saas/gorm"
+	sgorm "github.com/jace996/saas/gorm"
 	"gorm.io/gorm"
 	"time"
 )

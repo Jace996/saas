@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/go-saas/saas/seed"
+	"github.com/jace996/saas/seed"
 )
 
 type MigrationSeeder struct {

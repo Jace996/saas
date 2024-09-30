@@ -1,9 +1,9 @@
-# go-saas
+# jace996
 
 [English](./README.md) | [中文文档](./README_zh_Hans.md)
 
 无头(无UI)的go语言的多租户框架。
-本项目适合于简单的/单体(Web)项目，完整版本（支持微服务）可以看看[go-saas-kit](https://github.com/go-saas/kit)
+本项目适合于简单的/单体(Web)项目，完整版本（支持微服务）可以看看[jace996-kit](https://github.com/jace996/kit)
 
 # 概览
 ## 功能
@@ -42,7 +42,7 @@
 ## 安装
 
 ```
-go get github.com/go-saas/saas
+go get github.com/jace996/saas
 ```
 
 ## 设计
@@ -57,11 +57,11 @@ graph TD
 
 
 # 示例
-* [example](https://github.com/go-saas/saas/tree/main/examples) 使用 `go-saas`,`gin`,`gorm(sqlite/mysql)`
-* [go-saas-kit](https://github.com/go-saas/kit) golang多租户微服务解决方案
+* [example](https://github.com/jace996/saas/tree/main/examples) 使用 `jace996`,`gin`,`gorm(sqlite/mysql)`
+* [jace996-kit](https://github.com/jace996/kit) golang多租户微服务解决方案
 
 # 文档
- [wiki](https://github.com/go-saas/saas/wiki)
+ [wiki](https://github.com/jace996/saas/wiki)
 
 
 # 参考

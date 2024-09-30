@@ -3,10 +3,10 @@ package gorm
 import (
 	"context"
 	"database/sql"
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 	"github.com/google/uuid"
 
-	"github.com/go-saas/saas/data"
+	"github.com/jace996/saas/data"
 	"gorm.io/driver/sqlite"
 	g "gorm.io/gorm"
 	"os"

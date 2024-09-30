@@ -1,4 +1,4 @@
-module github.com/go-saas/saas
+module github.com/jace996/saas
 
 go 1.20
 

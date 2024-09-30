@@ -1,9 +1,9 @@
 # Example project
 
-combination of `go-saas`,`gin`,`ent(sqlite)`
+combination of `jace996`,`gin`,`ent(sqlite)`
 
 ```shell
-go run github.com/go-saas/saas/examples/ent
+go run github.com/jace996/saas/examples/ent
 ```
 ---
 Host side ( use shared database):

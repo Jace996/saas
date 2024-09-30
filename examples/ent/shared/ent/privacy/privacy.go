@@ -5,7 +5,7 @@ package privacy
 import (
 	"context"
 
-	"github.com/go-saas/saas/examples/ent/shared/ent"
+	"github.com/jace996/saas/examples/ent/shared/ent"
 
 	"entgo.io/ent/privacy"
 )

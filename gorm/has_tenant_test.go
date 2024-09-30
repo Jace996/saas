@@ -2,10 +2,10 @@ package gorm
 
 import (
 	"context"
-	"github.com/go-saas/saas"
+	"github.com/jace996/saas"
 	"github.com/google/uuid"
 
-	"github.com/go-saas/saas/data"
+	"github.com/jace996/saas/data"
 	"github.com/stretchr/testify/assert"
 	g "gorm.io/gorm"
 	"testing"
